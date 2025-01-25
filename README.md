@@ -1,4 +1,4 @@
-### **Hola, soy <Tu Dixon Marino> 👋**  
+### **Hola, soy Dixon Marino 👋**  
 
 ---
 
