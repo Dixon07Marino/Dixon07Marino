@@ -33,14 +33,14 @@ Soy un estudiante de análisis y desarrollo de software apasionado por el **Desa
 
 - Python y Java con **Spring Framework**.  
 - Bases de datos SQL y control de versiones avanzado con Git y GitHub.  
-- Mejorando mis habilidades con la **Terminal de Linux** **WSL2**.  
+- Mejorando mis habilidades con la **Terminal de Linux** - **WSL2**.  
 - Colaborando en un proyecto académico: **AgroTour**.  
 
 ---
 
 ### 📇 Conéctate conmigo en LinkedIn  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dixon-eduardo-marino-sanabria-46384025a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dixon-eduardo-marino-sanabria)  
 
 ---
 
