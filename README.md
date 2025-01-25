@@ -40,7 +40,7 @@ Soy un estudiante de análisis y desarrollo de software apasionado por el **Desa
 
 ### 📇 Conéctate conmigo en LinkedIn  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dixon-eduardo-marino-sanabria-46384025a/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dixon-eduardo-marino-sanabria-46384025a/)  
 
 ---
 
