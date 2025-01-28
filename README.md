@@ -22,7 +22,7 @@ Soy un estudiante de análisis y desarrollo de software apasionado por el **Desa
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,java,mysql,linux,ubuntu,html,css,md,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,py,java,mysql,linux,mint,vim,html,css,md,vscode&perline=14" />
   </a>
 </p>
 
