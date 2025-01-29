@@ -32,7 +32,7 @@ Soy un estudiante de análisis y desarrollo de software apasionado por el **Desa
 
 - Python y Java con **Spring Framework**.  
 - Bases de datos SQL y control de versiones avanzado con Git y GitHub.  
-- Mejorando mis habilidades con la **Terminal de Linux** - **WSL2**.  
+- Mejorando mis habilidades con la **Terminal de Linux** - **En Linux Mint**.  
 - Colaborando en un proyecto académico: **AgroTour**.  
 
 ---
