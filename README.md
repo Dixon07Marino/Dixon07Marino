@@ -22,7 +22,7 @@ Soy un estudiante de análisis y desarrollo de software apasionado por el **Desa
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,java,mysql,linux,mint,vim,html,css,md,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,py,mysql,linux,mint,vscode&perline=14" />
   </a>
 </p>
 
@@ -30,9 +30,9 @@ Soy un estudiante de análisis y desarrollo de software apasionado por el **Desa
 
 ### 🌟 **Actualmente aprendiendo**  
 
-- Python y Java con **Spring Framework**.  
+- Python.  
 - Bases de datos SQL y control de versiones avanzado con Git y GitHub.  
-- Mejorando mis habilidades con la **Terminal de Linux** - **En Linux Mint**.  
+- Mejorando mis habilidades en **Linux** - **Con Linux Mint**.  
 - Colaborando en un proyecto académico: **AgroTour**.  
 
 ---
