@@ -42,6 +42,12 @@ Soy un estudiante de análisis y desarrollo de software apasionado por el **Desa
 <a href="https://www.linkedin.com/in/dixon-eduardo-marino-sanabria-46384025a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 ---
 
+### Nivel en Codewars
+
+<img src="https://www.codewars.com/users/Dixon07Marino/badges/large">
+
+---
+
 ### 📂 Mis Proyectos  
 
 Explora mis repositorios públicos aquí ⬇️⬇️⬇️  
