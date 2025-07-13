@@ -7,11 +7,13 @@
 - 📍 **Ubicación:** <a href="https://www.google.com/maps/search/Colombia/" target="_blank">Colombia</a> 🇨🇴  
 - 📧 **Correo:** [dmusicmsoccer14@gmail.com](mailto:dmusicmsoccer14@gmail.com)  
 - 🎓 **Estudios:** Análisis y Desarrollo de Software  
-- 🏫 **Institución:** [SENA](https://www.sena.edu.co/) 🇨🇴  
+- 🏫 **Institución:** [SENA](https://www.sena.edu.co/) 🇨🇴
+- 🏢 **Empresa:** [LinkTIC](https://linktic.com/) 🇨🇴
 
 Soy un estudiante de análisis y desarrollo de software apasionado por el **Desarrollo Back-End**. Disfruto resolver desafíos utilizando tecnología. 
 - Python, FastAPI, MySQL, Git&GitHub, Linux
 - Colaboré en un proyecto académico: **AgroTour**.
+- Actualmente hago mis practicas profesionales en LinkTIC.
 
 ---
 <!--h1 without bottom border-->
