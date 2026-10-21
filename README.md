@@ -1,36 +1,21 @@
-### **Hola, soy Dixon Marino 👋**  
+# Dixon Marino · Back-end Dev 🇨🇴
+> Cada día en la mesa de ayuda de LinkTIC es una lección nueva.
 
----
+### 🔭 Ahora mismo
+- 🛠️ Desarrollando un sistema interno de mesa de ayuda en [LinkTIC](https://linktic.com/) (back-end + infraestructura)
+- 🤖 Explorando agentes de IA y automatización con LLMs
+- ☁️ Profundizando en AWS y pipelines en Azure DevOps
 
-### 🧑‍💻 **Sobre mí**  
+### 🌱 Aprendiendo
+`Go` · `AWS` · `Azure DevOps` · `Agentes IA / MCP`
 
-- 📍 **Ubicación:** <a href="https://www.google.com/maps/search/Colombia/" target="_blank">Colombia</a> 🇨🇴  
-- 📧 **Correo:** [dmusicmsoccer14@gmail.com](mailto:dmusicmsoccer14@gmail.com)  
-- 🎓 **Estudios:** Tecnologo en Análisis y Desarrollo de Software  
-- 🏫 **Institución:** [SENA](https://www.sena.edu.co/) 🇨🇴
-- 🏢 **Empresa:** [LinkTIC](https://linktic.com/) 🇨🇴
-
-Soy tecnologo en análisis y desarrollo de software apasionado por el **Desarrollo Back-End**. Disfruto resolver desafíos utilizando tecnología. 
-- Python, FastAPI, PostgreSQL, Docker, Git&GitHub, Linux, bash
-- Colaboré en un proyecto académico: **AgroTour**.
-- Hice mis practicas en **LinkTIC**. Y actualmente sigo con ellos automatizando procesos con Python.
-
----
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que se y que estoy aprendiendo👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,postgresql,docker,git,github,linux,bash,vscode&perline=14" />
-  </a>
+### 🧰 Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=go,py,fastapi,postgresql,docker,aws,azure,git,linux&perline=9" />
 </p>
 
----
+### 🎓 Formación
+Tecnólogo en Análisis y Desarrollo de Software · [SENA](https://www.sena.edu.co/)
 
-### 📂 Mis Proyectos  
-
-Explora mis repositorios públicos aquí ⬇️⬇️⬇️  
+### 📫 Contacto
+[dmusicmsoccer14@gmail.com](mailto:dmusicmsoccer14@gmail.com)
